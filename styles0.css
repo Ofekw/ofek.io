@@ -1,0 +1,118 @@
+/**
+ *
+ * Hey. My name's Ofek Wittenberg. I'm a Software Engineer from New Zealand.
+ *
+ * Whenever I learn something new, 
+ * I like to apply the technology to help me understand.
+ * Here's a fun live demo (demonstrating how I learn React, ES6 & CSS3).
+ */
+
+/**
+ * Let's begin. We start by animating...everything.
+ */
+
+* {
+  -webkit-transition: all 1s;
+}
+
+/**
+ * That didn't do much. But there's more to come.
+ */
+
+/**
+* At anytime you can pause, resume or skip this shenanigans all together.
+*/
+#footer {
+  background: rgb(0, 0, 0);
+}
+
+a {
+  color: grey;
+}
+
+ /**
+ * Black on white is kind of boring,
+ */
+
+html {
+  background: rgb(30, 48, 79);
+}
+
+/***
+ * Hold on...
+ */
+
+pre{
+  color: white;
+}
+
+/**
+ * That's slightly better. Sorry about your eyes.
+ *
+ * Lets make use of this empty space.
+ *
+ * I'm going to make a nice area for us to work in.
+ */
+
+pre:not(:empty) {
+  overflow: auto;
+  background: rgb(48, 48, 48);
+  border: 1px solid #ccc;
+  max-height: 44.6%;
+  width: 49%;
+  font-size: 14px;
+  font-family: monospace;
+  padding: 10px 10px 20px;
+  box-shadow: -4px 4px 2px 0 rgba(0,0,0,0.3);
+  white-space: pre-wrap;
+  outline: 0;
+}
+
+/**
+ * Okay. We're going to start filling up the screen.
+ */
+
+#style-text {
+  -webkit-transform: translateX(95%);
+  position: absolute;
+}
+
+/**
+ * This is good, but all the text is white!
+ * Let's make it even more readable.
+ */
+
+.comment       { color: #857F6B; font-style: italic; }
+.selector      { color: #E69F0F; }
+.selector .key { color: #64D5EA; }
+.key           { color: #64D5EA; }
+.value         { color: #BE84F2; }
+.value.px      { color: #F92772; }
+
+/**
+ * Now we're getting somewhere.
+ * Time to get a little perspective.
+ */
+
+body {
+  -webkit-perspective: 1000px;
+}
+
+#style-text {
+  -webkit-transform: translateX(98.5%) rotateY(-10deg);
+  -webkit-transform-origin: right;
+  max-height: 94.5%;
+}
+
+/**
+ * So, a little about me. 
+ * That's why you're here, right?
+ * I can't imagine you came here
+ * just to see some swanky colours and animations.
+ */
+
+pre:not(#style-text) {
+  -webkit-transform: rotateY(10deg);
+  -webkit-transform-origin: left;
+  max-height: 94.5%;
+}

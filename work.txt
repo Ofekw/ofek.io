@@ -1,0 +1,49 @@
+ofek.io
+=========
+
+Ofek Wittenberg - Software Engineer
+
+Contact
+-------
+
+* me (at) ofek (dot) io
+* https://www.linkedin.com/in/ofek-wittenberg
+* https://github.com/Ofekw/
+
+Experience
+--------
+
+* Backend / API development (ASP.NET, Hibernate, Spring, Node.js) 
+* Frontend development (Angular, React, REST, JSON) 
+* Mobile development (Android, Windows) 
+* Enterprise application development 
+* Agile Project Management (Scrum, Kanban, Git) 
+
+Language Experience
+--------
+
+* Java  
+    >>>>>>>>>>>>>>> 
+* C#    
+    >>>>>>>>>>>>> 
+* JS    
+    >>>>>>>>>>
+* CSS   
+    >>>>>>>>>>
+* HTML  
+    >>>>>>>>>>
+* SQL   
+    >>>>>>
+
+Work
+-----------
+
+* Orion Health - 2 years as a Software Engineer 
+* Microsoft - 4 months as a Software Engineer Intern
+* Covec - 1 year as a Technical Consultant 
+* TouchPhone - 3 years as Founder and Lead Developer
+
+Education
+-----------
+* University Of Auckland - Class of 2016
+    - First class honours, software engineering
