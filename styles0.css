@@ -106,10 +106,11 @@ body {
 }
 
 /**
- * So, a little about me. 
- * That's why you're here, right?
- * I can't imagine you came here
- * just to see some swanky colours and animations.
+ * I hope you enjoy the demo so far, only a little more.
+ *
+ * I'd like to note  Jeremy Thomas,
+ * Samual Read  and and Jake Albaugh. 
+ * They supplied many of the code snippets and inspiration for this project.
  */
 
 pre:not(#style-text) {
@@ -117,3 +118,10 @@ pre:not(#style-text) {
   -webkit-transform-origin: left;
   max-height: 94.5%;
 }
+
+/**
+ * So, just little about me. 
+ * That's why you're here, right?
+ * I can't imagine you came here
+ * just to see some swanky colours and animations.
+ */
