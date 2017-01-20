@@ -13,7 +13,7 @@ Contact
 Experience
 --------
 
-* Backend / API development (ASP.NET, Hibernate, Spring, Node.js) 
+* Backend / API development (ASP.NET, JAX-RS, Hibernate, Linq, Spring, Node.js) 
 * Frontend development (Angular, React, REST, JSON) 
 * Mobile development (Android, Windows) 
 * Enterprise application development 
@@ -46,4 +46,6 @@ Work
 Education
 -----------
 * University Of Auckland - Class of 2016
-    - First class honours, software engineering
+    - First Class Honours, Software Engineering
+* Part IV (Honours) Auckland University top project, winner of the Parallel and Distributed Systems category.
+    - See: https://wisurr.azurewebsites.net/
